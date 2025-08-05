@@ -1,4 +1,4 @@
-Calc-IMC
+# Calc-IMC
 
 ## Get started
 
