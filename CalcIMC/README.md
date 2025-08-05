@@ -68,4 +68,4 @@
 
 ## Captura de Tela
 
-![Screenshot](./assets/images/Captura%20de%20tela%202025-08-05%20162916.png)
+![Screenshot](./assets/images/Captura de tela 2025-08-05 151951.png)
