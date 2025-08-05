@@ -30,11 +30,11 @@ npm install -g expo-cli
 ```
 - 4 Execute o comando para criar um novo projeto React Native:
 ```bash
-npx create-expo-app@latest NomeDoSeuProjeto
+npx create-expo-app@latest Calc-IMC
 ```
  - 5 Após a criação do projeto, navegue até a pasta do projeto:
 ```bash
-cd NomeDoSeuProjeto
+cd Calc-IMC
 ```
 - 6 Para executar o projeto, execute o comando:
 ```bash
