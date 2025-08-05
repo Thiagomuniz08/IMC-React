@@ -8,16 +8,16 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: "space-around",
     alignItems: "center",
-    backgroundColor: "#f1aaaaff", // azul claro
+    backgroundColor: "#f1aaaaff", 
   },
   title: {
     fontSize: 26,
-    color: "#000000ff", // verde escuro
+    color: "#000000ff", 
     fontWeight: "bold",
   },
   text: {
     fontSize: 20,
-    color: "#ffffffff", // verde mais escuro
+    color: "#ffffffff", 
   },
   input: {
     width: "80%",
@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
   },
   imcResult: {
     fontSize: 18,
-    color: "#d84315", // laranja
+    color: "#d84315",
     marginTop: 10,
     fontWeight: "bold"
   }
