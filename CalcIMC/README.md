@@ -66,14 +66,6 @@
 
 ---
 
-## 📚 Saiba mais
+## Captura de Tela
 
-- [Documentação do Expo](https://docs.expo.dev/)
-- [Tutorial Expo](https://docs.expo.dev/tutorial/introduction/)
-
----
-
-## 🤝 Comunidade
-
-- [Expo no GitHub](https://github.com/expo/expo)
-- [Comunidade Discord](https://chat.expo.dev)
+![Screenshot](./assets/images/Captura%20de%20tela%202025-08-05%20162916.png)
